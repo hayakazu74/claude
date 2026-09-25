@@ -1,7 +1,7 @@
 {
-  "name": "claude-plugin",
+  "name": "hayakazu-custom-tools",
   "version": "1.0.0",
-  "description": "A Claude plugin repository.",
+  "description": "Custom tools and workflows for Claude environment.",
   "author": {
     "name": "hayakazu74"
   },
