@@ -1,3 +1,9 @@
 {
-  "name": "my-claude-plugin"
+  "name": "claude-plugin",
+  "version": "1.0.0",
+  "description": "A Claude plugin repository.",
+  "author": {
+    "name": "hayakazu74"
+  },
+  "license": "MIT"
 }
